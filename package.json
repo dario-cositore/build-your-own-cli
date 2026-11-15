@@ -1,0 +1,31 @@
+{
+  "name": "build-your-own-cli",
+  "version": "1.0.0",
+  "description": "How to build your own CLI: terminal animations, starfield, wordmark shimmer, fade-in text, spring/tween engine, and TUI patterns. Reference material for AI agents.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "terminal",
+    "tui",
+    "animation",
+    "solidjs",
+    "opentui",
+    "wordmark",
+    "starfield",
+    "shimmer",
+    "typescript",
+    "how-to",
+    "tutorial",
+    "build-your-own-cli"
+  ],
+  "dependencies": {
+    "@opentui/core": "^0.x",
+    "@opentui/solid": "^0.x",
+    "solid-js": "^1.x",
+    "solid-presence": "^0.x"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  }
+}
